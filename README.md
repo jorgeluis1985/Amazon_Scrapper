@@ -1,2 +1,4 @@
 # Amazon_Scrapper
-Python code that extracts information(prices, titles) of goods from Amazon
+This is a project that makes use of various libraries such as csv, requests amongst others
+These are used to extract, arrange and display the information from Amazon in a neat manner.
+The project only extracts titles, prices and ratings.
